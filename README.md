@@ -19,3 +19,5 @@ To start the server
 ```
 servez .
 ```
+
+The project is still under active development.
